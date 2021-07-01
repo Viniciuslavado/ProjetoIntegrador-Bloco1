@@ -1,0 +1,2 @@
+# ProjetoIntegrador-Bloco1
+Projeto realizado em grupo, com a finalidade de demonstrar em uma aplicação simples todo conteúdo que assimilamos no decorrer do primeiro bloco. Realizando um programa de uma comanda de restaurante, onde selecionando um prato, uma bebida e uma sobremesa, dependendo do valor, havendo um desconto, realizando o fechamento da comanda com o demonstrativo e o valor descontado.
